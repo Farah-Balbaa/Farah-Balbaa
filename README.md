@@ -6,18 +6,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/farah-balba-a-45a839291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="30" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NjaXlkeGFsZjA3N2N5YXE2Z3NiYjc4dGE5emNoeGlobng2MDdqaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NTtoU4hkyq8W48re2f/giphy.gif"  />
 
 ###
 
@@ -33,8 +27,20 @@
 
 ###
 
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NjaXlkeGFsZjA3N2N5YXE2Z3NiYjc4dGE5emNoeGlobng2MDdqaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NTtoU4hkyq8W48re2f/giphy.gif"  />
+
+###
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&theme=gruvbox_light&username=Farah%20Balba'a" alt="Layout with last medium posts"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Farah-Balbaa.Farah-Balbaa&left_color=lightskyblue&right_color=grey&left_text=Audience"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farah-Balbaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1&custom_title=Stats" height="100" alt="stats graph"  />
 </div>
 
 ###
