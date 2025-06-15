@@ -22,7 +22,9 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Farah-Balbaa.Farah-Balbaa&left_color=lightskyblue&right_color=grey&left_text=Audience"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Farah-Balbaa.Farah-Balbaa&left_color=lightskyblue&right_color=grey&left_text=Audience"  />
+</div>
 
 ###
 
